@@ -1,1 +1,1 @@
-# assignment-1
+# Simple array sum hackerank challenge
